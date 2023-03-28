@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake](https://github.com/nullzeal/nullzeal/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h2 align="center">
   Visitor count<br><br>
