@@ -1,4 +1,4 @@
-![Snake](https://github.com/nullzeal/nullzeal/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.gif)
 
 <h2 align="center">
   Visitor count<br><br>
